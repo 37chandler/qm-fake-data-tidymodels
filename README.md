@@ -5,7 +5,7 @@ set from the previous two assignments. This assignment will _really_ benefit
 from doing the "Part 2" assignment, so I recommend completing that first before
 doing this one. 
 
-You have two weeks to submit your first draft on this assignment. 
+You have ten days to submit your first draft on this assignment. 
 
 ## Tasks
 
